@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate student in statistics
+role: Graduate Student in Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,16 @@ organizations:
 bio: My research interests include rebiability,statistics,complex network.
 
 interests:
-- Artificial Intelligence
+- Statistics
 - Rebiability
+- Artificial Intelligence
 
 education:
   courses:
-  - course: statistics
+  - course: Reliability Statistics
     institution: Mathematical
-    year: 20019
-  - course: statistics
+    year: 2019
+  - course: Statistics
     institution: Mathematical
     year: 2015
 
@@ -41,15 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Blungblungs
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+sdd色色得得得
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
